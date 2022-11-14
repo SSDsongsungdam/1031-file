@@ -1,0 +1,40 @@
+sheet : 시트
+spreadsheet : 스프레드시트
+Cascading Style sheets : 계단식 스타일 시트
+
+DOM : DOM의 개체 구조는 “노드 트리”로 표현된다
+
+https://docs.emmet.io/cheat-sheet/
+
+https://www.notion.so/ko-kr
+
+web tech camp 사이트 보기
+
+scamper기법으로 아이디어 도출해내기
+
+link와 import 차이
+@import 를 통해 파일을 하나 이상 넣는다면, 사이트가 좀 더 방대해졌을 
+때 관리의 어려움이 있고, 보기에도 깨끗하지 못한다.
+그래서 <link>태그와 @import를 섞어 쓰면 관리가 쉽고 보기에도 좋다.
+<link> 태그를 한 번 사용함으로써 위 네 @import가 모두 로드된다.
+
+Bootstrap입문하고 Bulma 살펴보기
+
+cmyk 차이
+모니터에 비추어지는 영상은 R(Red), G(Green), B(Blue) 색깔을 사용하여 색상을 표현하는 것
+이고, 프린터는 C(Cyan), M(Magenta), Y(Yellow), K(Black)를 사용하여 출력한다.
+
+css 폰트단위 무조건 적어야 한다
+
+눈누폰트 사용할 때
+https://noonnu.cc/
+
+border, margin, padding 무조건 많이 쓰인다
+
+window랑 점 클릭하면 이모지 나온다
+
+display : block, inline, inline-block
+
+position : fixed 브라우저 하단 오른쪽에 고정배치
+visiblity 텍스트 숨기기
+
